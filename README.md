@@ -1,5 +1,5 @@
 # Tap-It
-### A Simple Game.
+### A Simple Tap Game.
 ## Elements:-
 
 * UIView
@@ -9,6 +9,16 @@
 * UITapGestureRecognizer
 
 ## SchreenShots:-
+![tap1](https://user-images.githubusercontent.com/84233147/124466853-b1192900-ddb4-11eb-83d9-7a126f0a1c17.png)
+
+![tap2](https://user-images.githubusercontent.com/84233147/124466872-b7a7a080-ddb4-11eb-925c-25f63c7d5dc4.png)
+
+![tap3](https://user-images.githubusercontent.com/84233147/124466888-be361800-ddb4-11eb-8aad-afd40b5ca3f3.png)
+
+
+
+
+
 
 
 
